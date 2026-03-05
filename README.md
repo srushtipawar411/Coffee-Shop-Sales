@@ -1,4 +1,5 @@
 ☕ Coffee Shop Sales Analysis Dashboard (SQL + Power BI)
+
 📌 Project Overview
 The Coffee Shop Sales Analysis Dashboard is a data analytics project designed to analyze and visualize sales performance of a coffee shop using SQL and Power BI. The goal of this project is to transform raw transactional data into meaningful insights that can help businesses make data-driven decisions.
 This project analyzes sales data to understand customer purchasing behavior, product performance, store performance, and sales trends. An interactive Power BI dashboard is created to visualize key metrics and business insights.
